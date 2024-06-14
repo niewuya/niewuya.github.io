@@ -36,7 +36,7 @@ section#home {
     background-color: #f4f4f4;
 }
 
-section#about, section#projects, section#contact {
+section#about, section#education, section#experience, section#research, section#publications, section#honors, section#contact {
     background-color: #eaeaea;
     margin-top: 2em;
 }
@@ -52,7 +52,4 @@ footer {
     color: white;
     text-align: center;
     padding: 1em 0;
-    position: absolute;
-    width: 100%;
-    bottom: 0;
 }
