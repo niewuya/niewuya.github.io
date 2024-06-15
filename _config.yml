@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "shutian.jpg"
+  avatar           : "shutian.png"
   name             : "About me"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Associate in Computer Science, Yale University"
